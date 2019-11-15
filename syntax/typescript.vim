@@ -237,7 +237,6 @@ if version >= 508 || !exists("did_typescript_syn_inits")
   HiLink typescriptParameters Operator
   HiLink typescriptSuperBlock Operator
 
-  HiLink typescriptEndColons Exception
   HiLink typescriptOpSymbols Operator
   HiLink typescriptLogicSymbols Boolean
   HiLink typescriptBraces Function
